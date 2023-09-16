@@ -1,5 +1,5 @@
 # Document Classification and Token Classification
-## NLP course, CE dept. Sharif University of Technology<br/>
+## Sharif University of Technology <br/> CE Dept. <br/> NLP Course<br/> Dr. E. Asgari
 
 **Students' names** :
 >Amirahmad Shafiee<br/>
@@ -19,3 +19,13 @@
 >**main-model** :<br/>
 >**base-model** : bidirectional GRU<br/>
 >**dataset** : <br/>  
+
+
+**Tags**:
+* BERT
+* Transformers
+* Generation
+* Sentiment Analysis
+* Question Answering
+* Recurrent neural networks, bidirectional GRU
+* Classic ML
