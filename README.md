@@ -1,2 +1,5 @@
-# NLP_HW4
-NLP course, EE dept. Sharif University of Technology
+# Document Classification and Toekn Classification
+## NLP course, CE dept. Sharif University of Technology<br/>
+
+**this Repo consists of two parts** : <br/>
+**.** 
