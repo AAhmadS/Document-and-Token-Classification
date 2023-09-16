@@ -1,4 +1,4 @@
-# Document Classification and Toekn Classification
+# Document Classification and Token Classification
 ## NLP course, CE dept. Sharif University of Technology<br/>
 
 **Students' names** :
@@ -6,16 +6,16 @@
 >Ali Shafiei<br/>
 >Neda Fallah<br/>
 
-**this Repo consists of two parts** : <br/>
+**This repo consists of two parts** : <br/>
 **1.  *Document Classification*:**  <br/> 
->Sentiment Analysis task<br/>
->base-model : SVM on TF-IDF vectors<br/>
->main-model : ParseBert<br/>
->dataset : SentiPers(Persian dataset for multioutput polarity classification)<br/>
+>**Sentiment Analysis task**<br/>
+>**base-model** : SVM on TF-IDF vectors<br/>
+>**main-model** : ParseBert<br/>
+>**dataset** : SentiPers(Persian dataset for multioutput polarity classification)<br/>
 >We benchmarked the model results and it happened to be 0.3 points of accuracy behind the top benchmark.<br/>
 
 **2.  *Token Classification*:** <br/>
->Question answering task<br/>
->main-model :<br/>
->base-model : bidirectional GRU<br/>
->dataset : <br/>  
+>**Question answering task**<br/>
+>**main-model** :<br/>
+>**base-model** : bidirectional GRU<br/>
+>**dataset** : <br/>  
