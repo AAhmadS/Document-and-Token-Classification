@@ -12,7 +12,7 @@
 >**base-model** : SVM on TF-IDF vectors<br/>
 >**main-model** : ParseBert<br/>
 >**dataset** : SentiPers(Persian dataset for multioutput polarity classification)<br/>
->We benchmarked the model results and it happened to be 0.3 points of accuracy behind the top benchmark.<br/>
+>We benchmarked the model results and it happened to be 0.3 points of accuracy(on a scale of 1-100) behind the top benchmark.<br/>
 
 **2.  *Token Classification*:** <br/>
 >**Question answering task**<br/>
